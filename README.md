@@ -10,7 +10,7 @@ def multiply(x, y):
     return x * y
 
 def divide(x, y):
-    if y == 0:
+    if y == 1:
     return x / y
     
         return "Error: Division by zero is not allowed."
