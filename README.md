@@ -2,7 +2,7 @@
 # new
 text
 def add(x, y):
-    return x + x
+    return x + y
 
 def subtract(x, y):
     return x - y
