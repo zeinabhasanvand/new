@@ -1,5 +1,5 @@
 #promp
-
+#new
 # new post
 text
 def add(x, y):
